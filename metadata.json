@@ -1,0 +1,6 @@
+{
+  "name": "Costa Áurea",
+  "description": "Menú interactivo y sistema de pedidos de Costa Áurea - Cocina Mediterránea y de Parrilla.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
